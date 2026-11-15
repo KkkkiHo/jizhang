@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-11-16T05:03:00+08:00",
+  "weekly": {
+    "used_pct": 59,
+    "remaining_pct": 41,
+    "resets_at": "2026-11-18T16:39:00+08:00",
+    "resets_text": "11月18日 16:39",
+    "days_left": 2
+  },
+  "extra_tokens": {
+    "used_pct": 2,
+    "remaining_pct": 98,
+    "tokens_left": "27B"
+  }
+}
